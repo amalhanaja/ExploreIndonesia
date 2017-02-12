@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Explore Indonesia</string>
+    <string-array name="lokasi">
+        <item>Indonesia</item>
+        <item>Jawa Timur</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
